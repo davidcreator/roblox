@@ -14,3 +14,9 @@ This repository contains Scripts from various developers.
   * AchievementsGuiHandler.lua
   * AchievementsList.lua
   * AchievementsServer.lua
+
+## Admin
+
+  * AdminChecker.lua
+  * AdminClient.lua
+  * AdminServer.luz
