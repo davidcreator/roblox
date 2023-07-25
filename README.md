@@ -34,3 +34,9 @@ This repository contains Scripts from various developers.
 ## Aim
 
   * AimTrainerScript.lua
+
+## Animation
+
+  * AnimationGuiHandler.lua
+  * AnimationScript.lua
+
