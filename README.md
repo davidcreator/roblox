@@ -26,3 +26,8 @@ This repository contains Scripts from various developers.
   * AdventCalendarSystem.lua
   * AdvertisementsClient.lua
   * AdvertisementsServer.lua
+
+
+## AFK - Away From Keyboard
+
+  * AFKDetector.lua
