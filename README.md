@@ -7,3 +7,10 @@ This repository contains Scripts from various developers.
 ## Abbreviations
   
   * AbbreviationHandler.lua
+
+## Achievements
+
+  * AchievementsFunctions.lua
+  * AchievementsGuiHandler.lua
+  * AchievementsList.lua
+  * AchievementsServer.lua
