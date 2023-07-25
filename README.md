@@ -19,4 +19,10 @@ This repository contains Scripts from various developers.
 
   * AdminChecker.lua
   * AdminClient.lua
-  * AdminServer.luz
+  * AdminServer.lua
+
+## Advertisements
+
+  * AdventCalendarSystem.lua
+  * AdvertisementsClient.lua
+  * AdvertisementsServer.lua
