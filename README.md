@@ -27,7 +27,10 @@ This repository contains Scripts from various developers.
   * AdvertisementsClient.lua
   * AdvertisementsServer.lua
 
-
 ## AFK - Away From Keyboard
 
   * AFKDetector.lua
+
+## Aim
+
+  * AimTrainerScript.lua
